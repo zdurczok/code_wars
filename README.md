@@ -1,2 +1,2 @@
 # code_wars
-wroking scripts for Code Wars katas
+working scripts for Code Wars katas
